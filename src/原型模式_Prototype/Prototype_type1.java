@@ -1,4 +1,4 @@
-package Prototype;
+package 原型模式_Prototype;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

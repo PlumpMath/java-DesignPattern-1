@@ -1,4 +1,4 @@
-package Builder;
+package 建造模式_Builder;
 
 public class Test {
 	public static void main(String[] args) {
