@@ -1,0 +1,10 @@
+package 工厂模式_普通Factory;
+
+public class SmsSender implements Sender {
+
+	@Override
+	public void Send() {
+		System.out.println("this is sms sender!");  
+	}
+
+}
