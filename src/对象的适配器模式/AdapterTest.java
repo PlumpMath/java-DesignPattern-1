@@ -1,4 +1,4 @@
-package 接口适配器模式;
+package 对象的适配器模式;
 
 public class AdapterTest {
 	public static void main(String[] args) {

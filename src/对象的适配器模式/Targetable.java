@@ -1,4 +1,4 @@
-package 接口适配器模式;
+package 对象的适配器模式;
 
 public interface Targetable {
 	/* 与原类中的方法相同 */  
